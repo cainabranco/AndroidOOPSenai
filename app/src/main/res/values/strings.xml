@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Senai</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="digite_um_texto">Digite um texto</string>
+    <string name="limpar_campos">Limpar Campos</string>
+    <string name="texto_2">Digite outro texto</string>
+</resources>
